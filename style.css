@@ -16,7 +16,7 @@ h1 {
     
     
 #triangle {
-    margin: 0 auto;
+    margin: 15px auto;
     width: 0;
     height:0;
     border-left: 75px solid transparent;
@@ -27,7 +27,7 @@ h1 {
 }
 
 #square {
-    margin: 0 auto;
+    margin: 20px auto;
     height:150px;
     width: 150px;
     background-color: red;
@@ -37,7 +37,7 @@ h1 {
 }
 
 #rectangle {
-    margin: 0 auto;
+    margin: 20px auto;
     
     height:100px;
     width: 150px;
@@ -48,7 +48,7 @@ h1 {
 
 #circle {
     
-    margin: 0 auto;    
+    margin: 20px auto;    
     width: 100px;
     height:100px;
     background: grey;
@@ -60,7 +60,7 @@ h1 {
 }
 
 #parallelogram {
-    margin: 0 auto;
+    margin: 20px auto;
     width: 200px;
     height:100px;
     -webkit-transform:skew(20deg);
@@ -71,7 +71,7 @@ h1 {
 }
 
 #trapezium {
-  margin: 0 auto;
+  margin: 20px auto;
   width: 150;
     height:0;
     border-left: 75px solid transparent;
@@ -85,7 +85,7 @@ h1 {
 
 #star {
     
-    margin: 0 auto;
+    margin: 20px auto;
     width: 0;
     height: 0;
     border-left: 100px solid transparent;
@@ -95,7 +95,7 @@ h1 {
 }
 
 #star:after {
-    margin: 0 auto;
+    margin: 20px auto;
     width: 0;
     height: 0;
     border-left: 100px solid transparent;
